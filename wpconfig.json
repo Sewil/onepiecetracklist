@@ -1,0 +1,10 @@
+{
+  "entry": "dist/index.html",
+  "uploadDirectory": "/www/onepiecetracklist.com/public_html",
+  "include": [
+    {
+      "file": "dist/index.js",
+      "entryLinkPattern": "<script src=\"(index\\.js[\\?v=A-Fa-f\\d]*)\"></script>"
+    }
+  ]
+}
